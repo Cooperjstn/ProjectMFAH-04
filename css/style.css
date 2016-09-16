@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box
+}
+
+.MFA1 {
+  float: left;
+  height: 25%
+}
+
+.MFA2 {
+    float: left;
+    
+}
+
+body {
+  width: 960px;
+  margin: auto;
+}
+
+.column1 {
+  float: left;
+  width: 70%;
+  margin: 10px;
+}
+
+.column2 {
+  float: left;
+  width: 30%;
+  margin: 10px:
+}
